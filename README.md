@@ -12,3 +12,8 @@ postman 링크: https://documenter.getpostman.com/view/39423685/2sAY55adm4
 
 2.erd
 https://www.erdcloud.com/d/34CmYvz4KxvnDzCLG
+
+
+
+
+3.sql
