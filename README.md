@@ -1,4 +1,18 @@
-1.api 명세표
+ # 일정 관리 앱
+
+
+구현: 
+LV1 : 일정 CRUD
+
+
+LV2 : 유저 CRUD
+
+ 
+
+
+
+
+## 1.api 명세표
 
 
 
@@ -10,13 +24,13 @@ postman 링크: https://documenter.getpostman.com/view/39423685/2sAY55adm4
 
 
 
-2.erd
+## 2.erd
 https://www.erdcloud.com/d/34CmYvz4KxvnDzCLG
 
 
 
 
-3.sql
+## 3.sql
 
 
 https://github.com/baksihwan/spring_scheDevelop/blob/master/schedule.sql
