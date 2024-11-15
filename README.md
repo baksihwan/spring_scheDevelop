@@ -2,7 +2,8 @@
 
 
 
-![image](https://github.com/user-attachments/assets/db703969-8827-4119-9c9d-aebba9dfd063)
+![image](https://github.com/user-attachments/assets/38063aa4-30c4-48d3-be18-163b30ad32e2)
+
 
 
 postman 링크: https://documenter.getpostman.com/view/39423685/2sAY55adm4
