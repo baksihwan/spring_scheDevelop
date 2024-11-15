@@ -17,3 +17,6 @@ https://www.erdcloud.com/d/34CmYvz4KxvnDzCLG
 
 
 3.sql
+
+
+https://github.com/baksihwan/spring_scheDevelop/blob/master/schedule.sql
